@@ -7,6 +7,10 @@ A Node.js service that routes user messages to specialized AI personas using a t
 
 This repository is implemented with Express + Groq (`llama-3.1-8b-instant`) and logs each routed request in JSON Lines format.
 
+## Reference Link
+
+- Google Drive file: https://drive.google.com/file/d/1Q1tfILkaUk6ElpKWKYUlLMRLeCKIlwsK/view?usp=sharing
+
 ## Features
 
 - Intent classification with confidence score.
